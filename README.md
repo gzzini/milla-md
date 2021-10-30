@@ -27,3 +27,5 @@ contact.push(way)
 >Prefix
 ---
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+Thanks for [alimsk](https://github.com/alimsk) 
