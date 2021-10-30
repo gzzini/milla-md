@@ -1,6 +1,6 @@
 # MILLA-MD
 
-This is a NodeJS based WhatsApp Bot working with [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys#multi-device) formatted like normal baileys bots
+This is a NodeJS based Multi-Device WhatsApp Bot working with [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys#multi-device) formatted like normal baileys bots
 
 ## Install:
 ```bash
