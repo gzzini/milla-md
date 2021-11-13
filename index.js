@@ -192,7 +192,7 @@ async function start() {
         const { connection, lastDisconnect } = update;
         if (connection === 'close') {
             // reconnect if not logged out
-            if (((_b = (_a = lastDisconnect.error) === null || _a === void 0 ? void 0 : _a.output) === null || _b === void 0 ? void 0 : _b.statusCode) !== DisconnectReason.loggedOut) {
+            if (lastDisconnect.error) {
                 milla = starts();
             }
             else {
